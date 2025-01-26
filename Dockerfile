@@ -1,3 +1,3 @@
-FROM python3
+FROM python:3
 
 CMD [ "/bin/bash" ]
